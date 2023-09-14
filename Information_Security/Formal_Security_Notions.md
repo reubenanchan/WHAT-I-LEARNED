@@ -6,7 +6,7 @@
 - Key is exactly the **same length** as the message
 - Key is **uniformly random.** Every key in the keyspace is equally likely to be chosen.
 - Key is **never** reused.
-![Alt text](<Images/Infomation Security/one-time.png>)
+![Alt text](<../Images/Infomation Security/one-time.png>)
 
 ## Information-Theoretic Security
 A cryptosystem is considered to have information-theoretic security is the system is secure against adversaries with unlimited computing resources and time. In order to achieve this:
